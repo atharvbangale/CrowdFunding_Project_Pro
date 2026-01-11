@@ -1,0 +1,8 @@
+.fund-card {
+  background-color: #ffffff;
+  border-left: 5px solid #28a745;
+  border-radius: 15px;
+  max-width: 60%;
+  width: 100%;
+  margin: 0 auto;
+}

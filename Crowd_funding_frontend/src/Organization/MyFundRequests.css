@@ -1,0 +1,10 @@
+.fund-card {
+  transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+  border-radius: 1rem;
+  border: 1px solid #e0f2f1;
+}
+
+.fund-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 6px 16px rgba(0, 128, 0, 0.15);
+}

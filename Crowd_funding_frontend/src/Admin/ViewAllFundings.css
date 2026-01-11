@@ -1,0 +1,44 @@
+.fundings-container {
+  padding: 20px;
+}
+
+.organization-section {
+  margin-bottom: 25px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 5px;
+  background-color: #ffffff;
+}
+
+.organization-title {
+  cursor: pointer;
+  padding: 1px;
+  background-color: #d3f7d8;
+  border-radius: 5px;
+  transition: background 0.3s;
+}
+
+.organization-title:hover {
+  background-color: #cce0ff;
+}
+
+.table-wrapper {
+  overflow-x: auto;
+  margin-top: 15px;
+}
+
+.fund-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.fund-table th,
+.fund-table td {
+  border: 1px solid #cff1cc;
+  padding: 8px 10px;
+  text-align: left;
+}
+
+.fund-table th {
+  background-color: #cdf6d2;
+}

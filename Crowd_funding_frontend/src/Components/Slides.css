@@ -1,0 +1,15 @@
+.slide-overlay {
+  background-color: rgba(255, 255, 255, 0.836); /* white transparent bg */
+  color: #2e7d32; /* deep green text */
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.4);
+  max-width: 90%;
+}
+
+.slide-overlay h1 {
+  color: #2e7d32; /* green heading */
+  text-shadow: 1px 1px 3px rgba(0, 100, 0, 0.2);
+}
+
+.slide-overlay p {
+  color: #1b5e20;
+}
